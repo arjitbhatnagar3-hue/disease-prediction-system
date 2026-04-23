@@ -1,1 +1,4 @@
 # disease-prediction-system
+
+
+https://docs.google.com/document/d/1Z0MaX_GleCKSC2RsxLNopuEFc4tDXKVi/mobilebasic?fbclid=PAT01DUARXHO5leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadPtypX8kWmOz_u4WSqCs1rt5u2EZvWnbI6UGhtyWbQW3J9HMEUsbKHxaMPDg_aem_AjtKo_73gxtuAkLFVs1W6Q
